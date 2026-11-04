@@ -4,7 +4,7 @@
 
 I am a Computer Science student interested in building practical software applications and growing as a Java Full Stack Developer. I enjoy learning by building projects, improving my problem-solving skills, and exploring modern development tools.
 
-[Portfolio](https://s-karthikeyan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/karthikeyan-s-467313382/) · [Email](mailto:kar...karthikeyan1710@gmail.com)
+[Portfolio](https://s-karthikeyan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/karthikeyan-s-467313382/) · [Email](mailto:karthikeyankarthikeyan1710@gmail.com)
 
 ---
 
